@@ -1,0 +1,14 @@
+/Users/roshankhadka/RiderProjects/WEEK4/bin/Debug/net9.0/WEEK4
+/Users/roshankhadka/RiderProjects/WEEK4/bin/Debug/net9.0/WEEK4.deps.json
+/Users/roshankhadka/RiderProjects/WEEK4/bin/Debug/net9.0/WEEK4.runtimeconfig.json
+/Users/roshankhadka/RiderProjects/WEEK4/bin/Debug/net9.0/WEEK4.dll
+/Users/roshankhadka/RiderProjects/WEEK4/bin/Debug/net9.0/WEEK4.pdb
+/Users/roshankhadka/RiderProjects/WEEK4/obj/Debug/net9.0/WEEK4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roshankhadka/RiderProjects/WEEK4/obj/Debug/net9.0/WEEK4.AssemblyInfoInputs.cache
+/Users/roshankhadka/RiderProjects/WEEK4/obj/Debug/net9.0/WEEK4.AssemblyInfo.cs
+/Users/roshankhadka/RiderProjects/WEEK4/obj/Debug/net9.0/WEEK4.csproj.CoreCompileInputs.cache
+/Users/roshankhadka/RiderProjects/WEEK4/obj/Debug/net9.0/WEEK4.dll
+/Users/roshankhadka/RiderProjects/WEEK4/obj/Debug/net9.0/refint/WEEK4.dll
+/Users/roshankhadka/RiderProjects/WEEK4/obj/Debug/net9.0/WEEK4.pdb
+/Users/roshankhadka/RiderProjects/WEEK4/obj/Debug/net9.0/WEEK4.genruntimeconfig.cache
+/Users/roshankhadka/RiderProjects/WEEK4/obj/Debug/net9.0/ref/WEEK4.dll
